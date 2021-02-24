@@ -15,4 +15,4 @@ var elPool = document.getElementById('pool');
 elPool.className = hotel.pool;                     
 
 var elGym = document.getElementById('gym');        
-elGym.className = hotel.gym;      
+elGym.className = hotel.gym;                      

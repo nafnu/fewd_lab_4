@@ -25,4 +25,5 @@ elHotel1.textContent = details1;
 var details2 = lemonHotel.name + ' rooms: ';
     details2 += lemonHotel.checkAvailablity();
 var elHotel2 = document.getElementById('hotel2');
-elHotel2.textContent = details2
+elHotel2.textContent = details2;
+

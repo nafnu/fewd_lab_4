@@ -6,3 +6,4 @@ hotel.booked = 24;
 hotel.checkAvailablity = function(){
     return this.rooms - this.booked;
 };
+
